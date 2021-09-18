@@ -8,23 +8,36 @@ namespace AjioAutomation.DoActions
 {
     class Action
     {
+        public static IWebElement element;
         public static void LoginToAjio(IWebDriver driver)
         {
-            driver.FindElement(By.XPath("//*[@id='appContainer']/div[1]/div/header/div[1]/ul/li[1]/span")).Click();
+            ExcelOperations.PopulateInCollection(@"C:\Users\girish.v\source\repos\AjioAutomation\AjioAutomation\ExcelData\TestData.xlsx");
+            Login login = new Login(driver);
+
+            login.loginBtn.Click();
+            System.Threading.Thread.Sleep(1000);
+
+            login.email.SendKeys(ExcelOperations.ReadData(1, "email"));
+            System.Threading.Thread.Sleep(1000);
+
+            login.continuebtn.Click();
+            System.Threading.Thread.Sleep(1000);
+
+            login.password.SendKeys(ExcelOperations.ReadData(1, "password"));
             System.Threading.Thread.Sleep(10000);
 
-            driver.FindElement(By.XPath("//*[@id='login - modal']/div/div/div[2]/div/div/form/div[1]/div[1]/div[1]/div")).Click();
+            login.startbtn.Click();
+            System.Threading.Thread.Sleep(1000);
+
+            login.searchbtn.Click();
+            System.Threading.Thread.Sleep(1000);
+
         }
-        public static void EnterCedentials(IWebDriver driver)
-        { 
-            driver.FindElement(By.XPath("//*[@id='login - modal']/div/div/div[2]/div/form/div[2]/div[1]/label/input")).SendKeys(ExcelOperations.ReadData(1, "email")); ;
-            System.Threading.Thread.Sleep(10000);
-
-            driver.FindElement(By.XPath("//*[@id='login - modal']/div/div/div[2]/div/form/div[2]/div[2]/input")).Click();
-            System.Threading.Thread.Sleep(10000);
-
-            driver.FindElement(By.XPath("//*[@id='pwdInput']")).SendKeys(ExcelOperations.ReadData(1, "password"));
-            System.Threading.Thread.Sleep(10000);
+        public static void SearchKey(IWebDriver driver)
+        {
+            IWebElement MyElement = driver.FindElement(By.Name("searchVal"));
+            MyElement.SendKeys(Keys.NumberPad7); MyElement.SendKeys(Keys.Down);
+            MyElement.SendKeys(Keys.Enter);
         }
     }
 }
