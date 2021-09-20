@@ -4,7 +4,7 @@ using OpenQA.Selenium;
 
 namespace AjioAutomation
 {
-    public class Tests:Base.BaseClass
+    public class Tests:CrossBrowser.CrossBrowser
     {
         ExtentReports reports = ReportClass.Report();
         ExtentTest test;
