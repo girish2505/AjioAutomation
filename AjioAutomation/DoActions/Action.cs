@@ -8,7 +8,6 @@ namespace AjioAutomation.DoActions
 {
     class Action
     {
-        public static IWebElement element;
         public static void LoginToAjio(IWebDriver driver)
         {
             ExcelOperations.PopulateInCollection(@"C:\Users\girish.v\source\repos\AjioAutomation\AjioAutomation\ExcelData\TestData.xlsx");

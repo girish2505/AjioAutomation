@@ -16,7 +16,7 @@ namespace AjioAutomation.Base
     {
         public static IWebDriver driver;
 
-        private static readonly ILog log = LogManager.GetLogger(typeof(ITest));
+        private static readonly ILog result = LogManager.GetLogger(typeof(ITest));
 
         private static readonly ILoggerRepository repository = log4net.LogManager.GetRepository(Assembly.GetCallingAssembly());
 
@@ -28,7 +28,7 @@ namespace AjioAutomation.Base
             log4net.Config.XmlConfigurator.Configure(repository, fileInfo);
             try
             {
-                log.Info("Entering Setup");
+                result.Info("Entering Setup");
 
                 driver = new ChromeDriver();
 
@@ -38,14 +38,14 @@ namespace AjioAutomation.Base
 
                 driver.Url = "https://www.ajio.com/";
 
-                log.Debug("navigating to url");
+                result.Debug("navigating to url");
 
-                log.Info("Exiting setup");
+                result.Info("Exiting setup");
 
             }
             catch (Exception ex)
             {
-                log.Error(ex.Message);
+                result.Error(ex.Message);
             }
         }
         public static void Takescreenshot()
