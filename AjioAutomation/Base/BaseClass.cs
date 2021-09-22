@@ -30,6 +30,12 @@ namespace AjioAutomation.Base
             {
                 result.Info("Entering Setup");
 
+                ChromeOptions options = new ChromeOptions();
+
+                options.AddArgument("--disable-notifications");
+
+                result.Info("Disabling notifications");
+
                 driver = new ChromeDriver();
 
                 driver.Manage().Window.Maximize();

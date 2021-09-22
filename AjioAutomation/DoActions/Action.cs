@@ -28,15 +28,23 @@ namespace AjioAutomation.DoActions
             login.startbtn.Click();
             System.Threading.Thread.Sleep(1000);
 
-            login.searchbtn.Click();
-            System.Threading.Thread.Sleep(1000);
-
         }
         public static void SearchKey(IWebDriver driver)
         {
-            IWebElement MyElement = driver.FindElement(By.Name("searchVal"));
-            MyElement.SendKeys(Keys.NumberPad7); MyElement.SendKeys(Keys.Down);
-            MyElement.SendKeys(Keys.Enter);
+            Pages.SearchPage search = new Pages.SearchPage(driver);
+
+            search.searchbtn.Click();
+            System.Threading.Thread.Sleep(1000);
+
+            search.searchbtn.SendKeys("Shoes");
+
+            search.searchbtn.SendKeys(Keys.ArrowDown);
+
+            search.searchbtn.SendKeys(Keys.Enter);
+
+            Base.BaseClass.Takescreenshot();
+
+            System.Threading.Thread.Sleep(1000);
         }
     }
 }

@@ -32,9 +32,5 @@ namespace AjioAutomation
         [FindsBy(How = How.XPath, Using = "//header/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/form[1]/div[3]/input[1]")]
         [CacheLookup]
         public IWebElement startbtn;
-
-        [FindsBy(How = How.Name, Using = "searchVal")]
-        [CacheLookup]
-        public IWebElement searchbtn;
     }
 }

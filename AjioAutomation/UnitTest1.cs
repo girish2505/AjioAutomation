@@ -4,7 +4,7 @@ using OpenQA.Selenium;
 
 namespace AjioAutomation
 {
-    public class Tests:CrossBrowser.CrossBrowser
+    public class Tests:Base.BaseClass
     {
         ExtentReports reports = ReportClass.Report();
         ExtentTest test;
@@ -15,11 +15,17 @@ namespace AjioAutomation
             test.Log(Status.Info, "Automating Ajio Login Page");
 
             DoActions.Action.LoginToAjio(driver);
-            DoActions.Action.SearchKey(driver);
             Takescreenshot();
 
             test.Log(Status.Pass, "Test PAsses");
             reports.Flush();
+        }
+
+        [Test]
+        public void SearchPage()
+        {
+            DoActions.Action.SearchKey(driver);
+            Takescreenshot();
         }
     }
 }
