@@ -6,9 +6,9 @@ using System.Text;
 
 namespace AjioAutomation.Pages
 {
-    public class SearchPage
+    public class Search
     {
-        public SearchPage(IWebDriver driver)
+        public Search(IWebDriver driver)
         {
             PageFactory.InitElements(driver, this);
         }
