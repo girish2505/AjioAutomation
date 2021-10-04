@@ -11,7 +11,6 @@ namespace AjioAutomation
         public static ExtentHtmlReporter htmlReporter;
         public static ExtentReports extent;
 
-
         public static ExtentReports Report()
         {
             if (extent == null)

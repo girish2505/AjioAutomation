@@ -4,11 +4,10 @@ using NUnit.Framework;
 using NUnit.Framework.Interfaces;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Firefox;
 using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
-using System.Text;
 
 namespace AjioAutomation.Base
 {
@@ -20,23 +19,48 @@ namespace AjioAutomation.Base
 
         private static readonly ILoggerRepository repository = log4net.LogManager.GetRepository(Assembly.GetCallingAssembly());
 
-        [SetUp]
-        public void start_Browser()
+        protected string browser;
+        public BaseClass()
         {
-            var fileInfo = new FileInfo(@"log4net.config");
+
+        }
+        public BaseClass(string browser)
+        {
+            this.browser = browser;
+        }
+
+        [SetUp]
+        public void SetUp()
+        {
+
+            var fileInfo = new FileInfo(@"Log4net.config");
 
             log4net.Config.XmlConfigurator.Configure(repository, fileInfo);
             try
             {
+                switch (browser)
+                {
+                    case "chrome":
+
+                        ChromeOptions options = new ChromeOptions();
+                        options.AddArguments("--disable-notifications");
+                        driver = new ChromeDriver(options);
+                        break;
+
+                    case "firefox":
+
+                        driver = new FirefoxDriver();
+                        break;
+                    default:
+                        driver = new ChromeDriver();
+                        break;
+                }
+
+                Console.WriteLine(browser + " Started");
+
+                result.Debug("navigating to url");
+
                 result.Info("Entering Setup");
-
-                ChromeOptions options = new ChromeOptions();
-
-                options.AddArgument("--disable-notifications");
-
-                result.Info("Disabling notifications");
-
-                driver = new ChromeDriver();
 
                 driver.Manage().Window.Maximize();
 
@@ -47,11 +71,10 @@ namespace AjioAutomation.Base
                 result.Debug("navigating to url");
 
                 result.Info("Exiting setup");
-
             }
-            catch (Exception ex)
+            catch
             {
-                result.Error(ex.Message);
+                Console.WriteLine("Successfull");
             }
         }
         public static void Takescreenshot()
@@ -60,13 +83,13 @@ namespace AjioAutomation.Base
 
             Screenshot screenshot = screenshotDriver.GetScreenshot();
 
-            screenshot.SaveAsFile(@"C:\Users\girish.v\source\repos\AjioAutomation\AjioAutomation\Screenshot\text1.png");
+            screenshot.SaveAsFile(@"C:\Users\girish.v\source\repos\AjioAutomation\AjioAutomation\Screenshot\text.png");
         }
 
         [TearDown]
         public void TearDown()
         {
-            driver.Close();
+            driver.Quit();
         }
     }
 }

@@ -45,3 +45,628 @@
 2021-09-23 10:44:05,221 INFO Disabling notifications
 2021-09-23 10:44:12,436 DEBUG navigating to url
 2021-09-23 10:44:12,437 INFO Exiting setup
+2021-09-28 11:13:35,094 INFO Entering Setup
+2021-09-28 11:13:35,113 INFO Disabling notifications
+2021-09-28 11:13:46,847 DEBUG navigating to url
+2021-09-28 11:13:46,847 INFO Exiting setup
+2021-09-28 11:14:48,159 INFO Entering Setup
+2021-09-28 11:14:48,179 INFO Disabling notifications
+2021-09-28 11:14:56,772 DEBUG navigating to url
+2021-09-28 11:14:56,772 INFO Exiting setup
+2021-09-28 11:15:22,924 INFO Entering Setup
+2021-09-28 11:15:22,924 INFO Disabling notifications
+2021-09-28 11:15:32,473 DEBUG navigating to url
+2021-09-28 11:15:32,473 INFO Exiting setup
+2021-09-28 11:15:40,720 INFO Entering Setup
+2021-09-28 11:15:40,721 INFO Disabling notifications
+2021-09-28 11:15:49,012 DEBUG navigating to url
+2021-09-28 11:15:49,013 INFO Exiting setup
+2021-09-28 11:24:56,853 INFO Entering Setup
+2021-09-28 11:24:56,870 INFO Disabling notifications
+2021-09-28 11:25:06,283 DEBUG navigating to url
+2021-09-28 11:25:06,284 INFO Exiting setup
+2021-09-28 11:26:27,245 INFO Entering Setup
+2021-09-28 11:26:27,265 INFO Disabling notifications
+2021-09-28 11:26:35,978 DEBUG navigating to url
+2021-09-28 11:26:35,978 INFO Exiting setup
+2021-09-28 11:33:19,028 INFO Entering Setup
+2021-09-28 11:33:19,043 INFO Disabling notifications
+2021-09-28 11:33:27,561 DEBUG navigating to url
+2021-09-28 11:33:27,564 INFO Exiting setup
+2021-09-28 11:33:51,665 INFO Entering Setup
+2021-09-28 11:33:51,666 INFO Disabling notifications
+2021-09-28 11:34:00,123 DEBUG navigating to url
+2021-09-28 11:34:00,123 INFO Exiting setup
+2021-09-28 11:34:08,902 INFO Entering Setup
+2021-09-28 11:34:08,903 INFO Disabling notifications
+2021-09-28 11:34:17,552 DEBUG navigating to url
+2021-09-28 11:34:17,552 INFO Exiting setup
+2021-09-30 14:30:45,362 INFO Entering Setup
+2021-09-30 14:30:45,380 INFO Disabling notifications
+2021-09-30 14:30:57,237 DEBUG navigating to url
+2021-09-30 14:30:57,237 INFO Exiting setup
+2021-09-30 14:32:03,582 INFO Entering Setup
+2021-09-30 14:32:03,600 INFO Disabling notifications
+2021-09-30 14:32:11,721 DEBUG navigating to url
+2021-09-30 14:32:11,721 INFO Exiting setup
+2021-09-30 14:32:17,095 INFO Entering Setup
+2021-09-30 14:32:17,096 INFO Disabling notifications
+2021-09-30 14:32:25,666 DEBUG navigating to url
+2021-09-30 14:32:25,667 INFO Exiting setup
+2021-09-30 14:32:34,857 INFO Entering Setup
+2021-09-30 14:32:34,858 INFO Disabling notifications
+2021-09-30 14:32:42,201 DEBUG navigating to url
+2021-09-30 14:32:42,202 INFO Exiting setup
+2021-09-30 14:34:24,181 INFO Entering Setup
+2021-09-30 14:34:24,200 INFO Disabling notifications
+2021-09-30 14:34:32,866 DEBUG navigating to url
+2021-09-30 14:34:32,867 INFO Exiting setup
+2021-09-30 14:35:03,062 INFO Entering Setup
+2021-09-30 14:35:03,063 INFO Disabling notifications
+2021-09-30 14:35:11,967 DEBUG navigating to url
+2021-09-30 14:35:11,968 INFO Exiting setup
+2021-09-30 14:35:21,045 INFO Entering Setup
+2021-09-30 14:35:21,045 INFO Disabling notifications
+2021-09-30 14:35:29,106 DEBUG navigating to url
+2021-09-30 14:35:29,107 INFO Exiting setup
+2021-09-30 14:47:38,426 INFO Entering Setup
+2021-09-30 14:47:38,443 INFO Disabling notifications
+2021-09-30 14:47:47,534 DEBUG navigating to url
+2021-09-30 14:47:47,535 INFO Exiting setup
+2021-09-30 14:48:08,447 INFO Entering Setup
+2021-09-30 14:48:08,464 INFO Disabling notifications
+2021-09-30 14:48:16,957 DEBUG navigating to url
+2021-09-30 14:48:16,958 INFO Exiting setup
+2021-09-30 14:48:59,813 INFO Entering Setup
+2021-09-30 14:48:59,827 INFO Disabling notifications
+2021-09-30 14:49:07,740 DEBUG navigating to url
+2021-09-30 14:49:07,740 INFO Exiting setup
+2021-09-30 14:49:12,806 INFO Entering Setup
+2021-09-30 14:49:12,806 INFO Disabling notifications
+2021-09-30 14:49:20,896 DEBUG navigating to url
+2021-09-30 14:49:20,897 INFO Exiting setup
+2021-09-30 14:49:25,578 INFO Entering Setup
+2021-09-30 14:49:25,578 INFO Disabling notifications
+2021-09-30 14:49:33,322 DEBUG navigating to url
+2021-09-30 14:49:33,323 INFO Exiting setup
+2021-09-30 14:50:26,141 INFO Entering Setup
+2021-09-30 14:50:26,159 INFO Disabling notifications
+2021-09-30 14:50:35,512 DEBUG navigating to url
+2021-09-30 14:50:35,513 INFO Exiting setup
+2021-09-30 15:02:18,926 INFO Entering Setup
+2021-09-30 15:02:18,944 INFO Disabling notifications
+2021-09-30 15:02:27,881 DEBUG navigating to url
+2021-09-30 15:02:27,881 INFO Exiting setup
+2021-09-30 15:04:37,674 INFO Entering Setup
+2021-09-30 15:04:37,693 INFO Disabling notifications
+2021-09-30 15:04:47,882 DEBUG navigating to url
+2021-09-30 15:04:47,883 INFO Exiting setup
+2021-09-30 15:06:35,773 INFO Entering Setup
+2021-09-30 15:06:35,790 INFO Disabling notifications
+2021-09-30 15:06:43,894 DEBUG navigating to url
+2021-09-30 15:06:43,895 INFO Exiting setup
+2021-09-30 15:06:48,682 INFO Entering Setup
+2021-09-30 15:06:48,683 INFO Disabling notifications
+2021-09-30 15:06:56,530 DEBUG navigating to url
+2021-09-30 15:06:56,530 INFO Exiting setup
+2021-09-30 15:07:11,713 INFO Entering Setup
+2021-09-30 15:07:11,714 INFO Disabling notifications
+2021-09-30 15:07:19,845 DEBUG navigating to url
+2021-09-30 15:07:19,846 INFO Exiting setup
+2021-09-30 15:16:36,335 INFO Entering Setup
+2021-09-30 15:16:36,359 INFO Disabling notifications
+2021-09-30 15:16:44,841 DEBUG navigating to url
+2021-09-30 15:16:44,842 INFO Exiting setup
+2021-09-30 15:17:12,730 INFO Entering Setup
+2021-09-30 15:17:12,734 INFO Disabling notifications
+2021-09-30 15:17:21,267 DEBUG navigating to url
+2021-09-30 15:17:21,268 INFO Exiting setup
+2021-09-30 15:17:36,398 INFO Entering Setup
+2021-09-30 15:17:36,399 INFO Disabling notifications
+2021-09-30 15:17:43,845 DEBUG navigating to url
+2021-09-30 15:17:43,845 INFO Exiting setup
+2021-09-30 15:18:17,334 INFO Entering Setup
+2021-09-30 15:18:17,352 INFO Disabling notifications
+2021-09-30 15:18:25,132 DEBUG navigating to url
+2021-09-30 15:18:25,132 INFO Exiting setup
+2021-09-30 15:20:03,752 INFO Entering Setup
+2021-09-30 15:20:03,777 INFO Disabling notifications
+2021-09-30 15:20:12,194 DEBUG navigating to url
+2021-09-30 15:20:12,194 INFO Exiting setup
+2021-09-30 15:20:51,383 INFO Entering Setup
+2021-09-30 15:20:51,400 INFO Disabling notifications
+2021-09-30 15:20:59,603 DEBUG navigating to url
+2021-09-30 15:20:59,604 INFO Exiting setup
+2021-09-30 15:21:34,804 INFO Entering Setup
+2021-09-30 15:21:34,822 INFO Disabling notifications
+2021-09-30 15:21:43,138 DEBUG navigating to url
+2021-09-30 15:21:43,139 INFO Exiting setup
+2021-09-30 15:23:13,723 INFO Entering Setup
+2021-09-30 15:23:13,739 INFO Disabling notifications
+2021-09-30 15:23:21,799 DEBUG navigating to url
+2021-09-30 15:23:21,799 INFO Exiting setup
+2021-09-30 15:25:54,103 INFO Entering Setup
+2021-09-30 15:25:54,118 INFO Disabling notifications
+2021-09-30 15:26:02,363 DEBUG navigating to url
+2021-09-30 15:26:02,364 INFO Exiting setup
+2021-09-30 16:40:12,733 INFO Entering Setup
+2021-09-30 16:40:12,759 INFO Disabling notifications
+2021-09-30 16:40:38,435 DEBUG navigating to url
+2021-09-30 16:40:38,436 INFO Exiting setup
+2021-09-30 16:41:56,198 INFO Entering Setup
+2021-09-30 16:41:56,217 INFO Disabling notifications
+2021-09-30 16:42:21,174 DEBUG navigating to url
+2021-09-30 16:42:21,174 INFO Exiting setup
+2021-09-30 16:42:27,185 INFO Entering Setup
+2021-09-30 16:42:27,186 INFO Disabling notifications
+2021-09-30 16:42:59,916 DEBUG navigating to url
+2021-09-30 16:42:59,916 INFO Exiting setup
+2021-09-30 16:43:15,053 INFO Entering Setup
+2021-09-30 16:43:15,053 INFO Disabling notifications
+2021-09-30 16:43:40,925 DEBUG navigating to url
+2021-09-30 16:43:40,926 INFO Exiting setup
+2021-09-30 16:47:33,714 INFO Entering Setup
+2021-09-30 16:47:33,737 INFO Disabling notifications
+2021-09-30 16:48:16,855 DEBUG navigating to url
+2021-09-30 16:48:16,855 INFO Exiting setup
+2021-09-30 16:48:22,307 INFO Entering Setup
+2021-09-30 16:48:22,308 INFO Disabling notifications
+2021-09-30 16:50:21,478 INFO Entering Setup
+2021-09-30 16:50:21,495 INFO Disabling notifications
+2021-09-30 16:50:49,522 DEBUG navigating to url
+2021-09-30 16:50:49,522 INFO Exiting setup
+2021-09-30 16:50:55,092 INFO Entering Setup
+2021-09-30 16:50:55,093 INFO Disabling notifications
+2021-09-30 16:51:46,361 DEBUG navigating to url
+2021-09-30 16:51:46,361 INFO Exiting setup
+2021-09-30 17:06:43,305 INFO Entering Setup
+2021-09-30 17:06:43,328 INFO Disabling notifications
+2021-09-30 17:07:01,231 DEBUG navigating to url
+2021-09-30 17:07:01,231 INFO Exiting setup
+2021-09-30 17:07:33,136 INFO Entering Setup
+2021-09-30 17:07:33,136 INFO Disabling notifications
+2021-09-30 17:08:01,814 DEBUG navigating to url
+2021-09-30 17:08:01,814 INFO Exiting setup
+2021-09-30 17:24:23,243 INFO Entering Setup
+2021-09-30 17:24:23,261 INFO Disabling notifications
+2021-09-30 17:24:32,690 DEBUG navigating to url
+2021-09-30 17:24:32,690 INFO Exiting setup
+2021-09-30 17:25:06,406 INFO Entering Setup
+2021-09-30 17:25:06,407 INFO Disabling notifications
+2021-09-30 17:25:15,363 DEBUG navigating to url
+2021-09-30 17:25:15,364 INFO Exiting setup
+2021-09-30 17:26:26,156 INFO Entering Setup
+2021-09-30 17:26:26,171 INFO Disabling notifications
+2021-09-30 17:26:36,809 DEBUG navigating to url
+2021-09-30 17:26:36,810 INFO Exiting setup
+2021-09-30 17:26:41,667 INFO Entering Setup
+2021-09-30 17:26:41,668 INFO Disabling notifications
+2021-09-30 17:26:50,429 DEBUG navigating to url
+2021-09-30 17:26:50,429 INFO Exiting setup
+2021-09-30 17:27:35,360 INFO Entering Setup
+2021-09-30 17:27:35,378 INFO Disabling notifications
+2021-09-30 17:27:44,844 DEBUG navigating to url
+2021-09-30 17:27:44,844 INFO Exiting setup
+2021-09-30 17:27:50,791 INFO Entering Setup
+2021-09-30 17:27:50,795 INFO Disabling notifications
+2021-09-30 17:27:59,624 DEBUG navigating to url
+2021-09-30 17:27:59,625 INFO Exiting setup
+2021-09-30 17:39:06,635 INFO Entering Setup
+2021-09-30 17:39:06,656 INFO Disabling notifications
+2021-09-30 17:39:16,880 DEBUG navigating to url
+2021-09-30 17:39:16,880 INFO Exiting setup
+2021-09-30 17:39:22,009 INFO Entering Setup
+2021-09-30 17:39:22,016 INFO Disabling notifications
+2021-09-30 17:39:31,953 DEBUG navigating to url
+2021-09-30 17:39:31,953 INFO Exiting setup
+2021-09-30 17:39:53,998 INFO Entering Setup
+2021-09-30 17:39:54,017 INFO Disabling notifications
+2021-09-30 17:40:03,288 DEBUG navigating to url
+2021-09-30 17:40:03,290 INFO Exiting setup
+2021-09-30 17:40:27,756 INFO Entering Setup
+2021-09-30 17:40:27,782 INFO Disabling notifications
+2021-09-30 17:40:38,036 DEBUG navigating to url
+2021-09-30 17:40:38,037 INFO Exiting setup
+2021-09-30 17:41:12,929 INFO Entering Setup
+2021-09-30 17:41:12,929 INFO Disabling notifications
+2021-09-30 17:41:22,804 DEBUG navigating to url
+2021-09-30 17:41:22,804 INFO Exiting setup
+2021-10-01 11:07:30,325 INFO Entering Setup
+2021-10-01 11:07:30,343 INFO Disabling notifications
+2021-10-01 11:07:39,601 DEBUG navigating to url
+2021-10-01 11:07:39,601 INFO Exiting setup
+2021-10-01 11:07:44,821 INFO Entering Setup
+2021-10-01 11:07:44,822 INFO Disabling notifications
+2021-10-01 11:07:52,574 DEBUG navigating to url
+2021-10-01 11:07:52,574 INFO Exiting setup
+2021-10-01 11:09:44,624 INFO Entering Setup
+2021-10-01 11:09:44,641 INFO Disabling notifications
+2021-10-01 11:09:53,834 DEBUG navigating to url
+2021-10-01 11:09:53,835 INFO Exiting setup
+2021-10-01 11:10:42,548 INFO Entering Setup
+2021-10-01 11:10:42,564 INFO Disabling notifications
+2021-10-01 11:10:51,043 DEBUG navigating to url
+2021-10-01 11:10:51,043 INFO Exiting setup
+2021-10-01 11:11:16,378 INFO Entering Setup
+2021-10-01 11:11:16,379 INFO Disabling notifications
+2021-10-01 11:11:27,118 DEBUG navigating to url
+2021-10-01 11:11:27,118 INFO Exiting setup
+2021-10-01 11:12:57,072 INFO Entering Setup
+2021-10-01 11:12:57,090 INFO Disabling notifications
+2021-10-01 11:13:05,549 DEBUG navigating to url
+2021-10-01 11:13:05,549 INFO Exiting setup
+2021-10-01 11:13:10,239 INFO Entering Setup
+2021-10-01 11:13:10,239 INFO Disabling notifications
+2021-10-01 11:13:18,177 DEBUG navigating to url
+2021-10-01 11:13:18,178 INFO Exiting setup
+2021-10-01 11:14:30,523 INFO Entering Setup
+2021-10-01 11:14:30,545 INFO Disabling notifications
+2021-10-01 11:14:38,750 DEBUG navigating to url
+2021-10-01 11:14:38,750 INFO Exiting setup
+2021-10-01 11:15:07,120 INFO Entering Setup
+2021-10-01 11:15:07,121 INFO Disabling notifications
+2021-10-01 11:15:15,136 DEBUG navigating to url
+2021-10-01 11:15:15,136 INFO Exiting setup
+2021-10-01 11:53:10,331 INFO Entering Setup
+2021-10-01 11:53:10,350 INFO Disabling notifications
+2021-10-01 11:53:21,207 DEBUG navigating to url
+2021-10-01 11:53:21,207 INFO Exiting setup
+2021-10-01 11:53:53,003 INFO Entering Setup
+2021-10-01 11:53:53,004 INFO Disabling notifications
+2021-10-01 11:54:02,306 DEBUG navigating to url
+2021-10-01 11:54:02,306 INFO Exiting setup
+2021-10-01 15:21:11,867 INFO Entering Setup
+2021-10-01 15:21:11,891 INFO Disabling notifications
+2021-10-01 15:21:20,764 DEBUG navigating to url
+2021-10-01 15:21:20,764 INFO Exiting setup
+2021-10-01 15:21:36,679 INFO Entering Setup
+2021-10-01 15:21:36,679 INFO Disabling notifications
+2021-10-01 15:21:44,615 DEBUG navigating to url
+2021-10-01 15:21:44,615 INFO Exiting setup
+2021-10-01 15:22:16,654 INFO Entering Setup
+2021-10-01 15:22:16,655 INFO Disabling notifications
+2021-10-01 15:22:24,733 DEBUG navigating to url
+2021-10-01 15:22:24,734 INFO Exiting setup
+2021-10-01 15:24:29,246 INFO Entering Setup
+2021-10-01 15:24:29,265 INFO Disabling notifications
+2021-10-01 15:24:37,510 DEBUG navigating to url
+2021-10-01 15:24:37,511 INFO Exiting setup
+2021-10-01 15:24:54,377 INFO Entering Setup
+2021-10-01 15:24:54,377 INFO Disabling notifications
+2021-10-01 15:25:02,192 DEBUG navigating to url
+2021-10-01 15:25:02,193 INFO Exiting setup
+2021-10-01 15:25:32,713 INFO Entering Setup
+2021-10-01 15:25:32,713 INFO Disabling notifications
+2021-10-01 15:25:40,569 DEBUG navigating to url
+2021-10-01 15:25:40,569 INFO Exiting setup
+2021-10-01 15:27:49,011 INFO Entering Setup
+2021-10-01 15:27:49,029 INFO Disabling notifications
+2021-10-01 15:27:57,399 DEBUG navigating to url
+2021-10-01 15:27:57,400 INFO Exiting setup
+2021-10-01 15:28:16,219 INFO Entering Setup
+2021-10-01 15:28:16,219 INFO Disabling notifications
+2021-10-01 15:28:23,895 DEBUG navigating to url
+2021-10-01 15:28:23,895 INFO Exiting setup
+2021-10-01 15:28:55,155 INFO Entering Setup
+2021-10-01 15:28:55,156 INFO Disabling notifications
+2021-10-01 15:29:02,769 DEBUG navigating to url
+2021-10-01 15:29:02,769 INFO Exiting setup
+2021-10-01 15:29:57,785 INFO Entering Setup
+2021-10-01 15:29:57,802 INFO Disabling notifications
+2021-10-01 15:30:05,899 DEBUG navigating to url
+2021-10-01 15:30:05,899 INFO Exiting setup
+2021-10-01 15:55:53,057 INFO Entering Setup
+2021-10-01 15:55:53,073 INFO Disabling notifications
+2021-10-01 15:56:02,385 DEBUG navigating to url
+2021-10-01 15:56:02,385 INFO Exiting setup
+2021-10-01 15:56:39,059 INFO Entering Setup
+2021-10-01 15:56:39,083 INFO Disabling notifications
+2021-10-01 15:56:48,043 DEBUG navigating to url
+2021-10-01 15:56:48,044 INFO Exiting setup
+2021-10-01 15:57:25,532 INFO Entering Setup
+2021-10-01 15:57:25,553 INFO Disabling notifications
+2021-10-01 15:57:33,905 DEBUG navigating to url
+2021-10-01 15:57:33,906 INFO Exiting setup
+2021-10-01 15:57:52,818 INFO Entering Setup
+2021-10-01 15:57:52,836 INFO Disabling notifications
+2021-10-01 15:58:01,235 DEBUG navigating to url
+2021-10-01 15:58:01,236 INFO Exiting setup
+2021-10-01 15:59:02,721 INFO Entering Setup
+2021-10-01 15:59:02,742 INFO Disabling notifications
+2021-10-01 15:59:11,093 DEBUG navigating to url
+2021-10-01 15:59:11,093 INFO Exiting setup
+2021-10-01 16:03:45,721 INFO Entering Setup
+2021-10-01 16:03:45,741 INFO Disabling notifications
+2021-10-01 16:03:57,975 DEBUG navigating to url
+2021-10-01 16:03:57,975 INFO Exiting setup
+2021-10-01 16:04:36,238 INFO Entering Setup
+2021-10-01 16:04:36,262 INFO Disabling notifications
+2021-10-01 16:04:45,449 DEBUG navigating to url
+2021-10-01 16:04:45,450 INFO Exiting setup
+2021-10-03 23:05:27,891 INFO Entering Setup
+2021-10-03 23:05:27,930 INFO Disabling notifications
+2021-10-03 23:05:36,829 DEBUG navigating to url
+2021-10-03 23:05:36,830 INFO Exiting setup
+2021-10-03 23:05:54,627 INFO Entering Setup
+2021-10-03 23:05:54,627 INFO Disabling notifications
+2021-10-03 23:06:01,955 DEBUG navigating to url
+2021-10-03 23:06:01,956 INFO Exiting setup
+2021-10-03 23:06:07,107 INFO Entering Setup
+2021-10-03 23:06:07,108 INFO Disabling notifications
+2021-10-03 23:06:14,260 DEBUG navigating to url
+2021-10-03 23:06:14,261 INFO Exiting setup
+2021-10-03 23:08:50,977 INFO Entering Setup
+2021-10-03 23:08:50,992 INFO Disabling notifications
+2021-10-03 23:08:59,137 DEBUG navigating to url
+2021-10-03 23:08:59,138 INFO Exiting setup
+2021-10-03 23:09:22,752 INFO Entering Setup
+2021-10-03 23:09:22,752 INFO Disabling notifications
+2021-10-03 23:09:29,330 DEBUG navigating to url
+2021-10-03 23:09:29,330 INFO Exiting setup
+2021-10-03 23:09:43,274 INFO Entering Setup
+2021-10-03 23:09:43,275 INFO Disabling notifications
+2021-10-03 23:09:50,130 DEBUG navigating to url
+2021-10-03 23:09:50,131 INFO Exiting setup
+2021-10-03 23:15:29,380 INFO Entering Setup
+2021-10-03 23:15:29,396 INFO Disabling notifications
+2021-10-03 23:15:36,507 DEBUG navigating to url
+2021-10-03 23:15:36,508 INFO Exiting setup
+2021-10-03 23:31:34,762 INFO Entering Setup
+2021-10-03 23:31:34,776 INFO Disabling notifications
+2021-10-03 23:31:41,924 DEBUG navigating to url
+2021-10-03 23:31:41,925 INFO Exiting setup
+2021-10-03 23:33:17,337 INFO Entering Setup
+2021-10-03 23:33:17,353 INFO Disabling notifications
+2021-10-03 23:33:24,714 DEBUG navigating to url
+2021-10-03 23:33:24,714 INFO Exiting setup
+2021-10-03 23:37:55,677 INFO Entering Setup
+2021-10-03 23:37:55,691 INFO Disabling notifications
+2021-10-03 23:38:02,832 DEBUG navigating to url
+2021-10-03 23:38:02,832 INFO Exiting setup
+2021-10-03 23:39:47,230 INFO Entering Setup
+2021-10-03 23:39:47,244 INFO Disabling notifications
+2021-10-03 23:39:54,584 DEBUG navigating to url
+2021-10-03 23:39:54,585 INFO Exiting setup
+2021-10-03 23:40:49,075 INFO Entering Setup
+2021-10-03 23:40:49,089 INFO Disabling notifications
+2021-10-03 23:40:56,277 DEBUG navigating to url
+2021-10-03 23:40:56,277 INFO Exiting setup
+2021-10-03 23:42:38,459 INFO Entering Setup
+2021-10-03 23:42:38,474 INFO Disabling notifications
+2021-10-03 23:42:45,675 DEBUG navigating to url
+2021-10-03 23:42:45,676 INFO Exiting setup
+2021-10-04 10:14:48,878 INFO Entering Setup
+2021-10-04 10:14:48,892 INFO Disabling notifications
+2021-10-04 10:14:56,218 DEBUG navigating to url
+2021-10-04 10:14:56,219 INFO Exiting setup
+2021-10-04 10:15:24,177 INFO Entering Setup
+2021-10-04 10:15:24,191 INFO Disabling notifications
+2021-10-04 10:15:31,011 DEBUG navigating to url
+2021-10-04 10:15:31,011 INFO Exiting setup
+2021-10-04 10:15:58,499 INFO Entering Setup
+2021-10-04 10:15:58,521 INFO Disabling notifications
+2021-10-04 10:16:05,855 DEBUG navigating to url
+2021-10-04 10:16:05,855 INFO Exiting setup
+2021-10-04 10:16:49,010 INFO Entering Setup
+2021-10-04 10:16:49,024 INFO Disabling notifications
+2021-10-04 10:16:55,709 DEBUG navigating to url
+2021-10-04 10:16:55,709 INFO Exiting setup
+2021-10-04 10:18:01,703 INFO Entering Setup
+2021-10-04 10:18:01,719 INFO Disabling notifications
+2021-10-04 10:18:11,508 DEBUG navigating to url
+2021-10-04 10:18:11,508 INFO Exiting setup
+2021-10-04 10:19:31,323 INFO Entering Setup
+2021-10-04 10:19:31,339 INFO Disabling notifications
+2021-10-04 10:19:38,182 DEBUG navigating to url
+2021-10-04 10:19:38,182 INFO Exiting setup
+2021-10-04 12:26:32,767 INFO Entering Setup
+2021-10-04 12:26:32,783 INFO Disabling notifications
+2021-10-04 12:26:40,781 DEBUG navigating to url
+2021-10-04 12:26:40,782 INFO Exiting setup
+2021-10-04 12:28:29,451 INFO Entering Setup
+2021-10-04 12:28:29,466 INFO Disabling notifications
+2021-10-04 12:28:36,505 DEBUG navigating to url
+2021-10-04 12:28:36,506 INFO Exiting setup
+2021-10-04 12:29:13,173 INFO Entering Setup
+2021-10-04 12:29:13,190 INFO Disabling notifications
+2021-10-04 12:29:20,311 DEBUG navigating to url
+2021-10-04 12:29:20,311 INFO Exiting setup
+2021-10-04 12:30:51,725 INFO Entering Setup
+2021-10-04 12:30:51,740 INFO Disabling notifications
+2021-10-04 12:30:58,948 DEBUG navigating to url
+2021-10-04 12:30:58,948 INFO Exiting setup
+2021-10-04 12:31:41,344 INFO Entering Setup
+2021-10-04 12:31:41,364 INFO Disabling notifications
+2021-10-04 12:31:48,480 DEBUG navigating to url
+2021-10-04 12:31:48,480 INFO Exiting setup
+2021-10-04 12:38:34,706 INFO Entering Setup
+2021-10-04 12:38:34,721 INFO Disabling notifications
+2021-10-04 12:38:41,743 DEBUG navigating to url
+2021-10-04 12:38:41,743 INFO Exiting setup
+2021-10-04 12:44:21,526 INFO Entering Setup
+2021-10-04 12:44:21,543 INFO Disabling notifications
+2021-10-04 12:45:12,934 INFO Entering Setup
+2021-10-04 12:45:12,948 INFO Disabling notifications
+2021-10-04 12:45:20,431 DEBUG navigating to url
+2021-10-04 12:45:20,431 INFO Exiting setup
+2021-10-04 12:46:35,482 INFO Entering Setup
+2021-10-04 12:46:35,497 INFO Disabling notifications
+2021-10-04 12:46:43,016 DEBUG navigating to url
+2021-10-04 12:46:43,016 INFO Exiting setup
+2021-10-04 12:47:23,336 INFO Entering Setup
+2021-10-04 12:47:23,351 INFO Disabling notifications
+2021-10-04 12:47:30,619 DEBUG navigating to url
+2021-10-04 12:47:30,620 INFO Exiting setup
+2021-10-04 12:53:47,238 INFO Entering Setup
+2021-10-04 12:53:47,254 INFO Disabling notifications
+2021-10-04 12:54:01,189 DEBUG navigating to url
+2021-10-04 12:54:01,189 INFO Exiting setup
+2021-10-04 12:54:19,100 INFO Entering Setup
+2021-10-04 12:54:19,116 INFO Disabling notifications
+2021-10-04 12:54:25,966 DEBUG navigating to url
+2021-10-04 12:54:25,967 INFO Exiting setup
+2021-10-04 12:59:16,564 INFO Entering Setup
+2021-10-04 12:59:16,581 INFO Disabling notifications
+2021-10-04 13:00:00,409 INFO Entering Setup
+2021-10-04 13:00:00,425 INFO Disabling notifications
+2021-10-04 13:00:07,275 DEBUG navigating to url
+2021-10-04 13:00:07,275 INFO Exiting setup
+2021-10-04 13:39:18,587 INFO Entering Setup
+2021-10-04 13:39:18,602 INFO Disabling notifications
+2021-10-04 13:39:26,060 DEBUG navigating to url
+2021-10-04 13:39:26,060 INFO Exiting setup
+2021-10-04 13:39:44,078 INFO Entering Setup
+2021-10-04 13:39:44,093 INFO Disabling notifications
+2021-10-04 13:39:51,294 DEBUG navigating to url
+2021-10-04 13:39:51,294 INFO Exiting setup
+2021-10-04 13:40:21,208 INFO Entering Setup
+2021-10-04 13:40:21,225 INFO Disabling notifications
+2021-10-04 13:40:28,319 DEBUG navigating to url
+2021-10-04 13:40:28,320 INFO Exiting setup
+2021-10-04 14:07:49,107 INFO Entering Setup
+2021-10-04 14:07:49,128 INFO Disabling notifications
+2021-10-04 14:07:57,274 DEBUG navigating to url
+2021-10-04 14:07:57,274 INFO Exiting setup
+2021-10-04 14:08:31,789 INFO Entering Setup
+2021-10-04 14:08:31,790 INFO Disabling notifications
+2021-10-04 14:08:36,156 DEBUG navigating to url
+2021-10-04 14:08:36,159 INFO Exiting setup
+2021-10-04 14:11:08,782 INFO Entering Setup
+2021-10-04 14:11:08,799 INFO Disabling notifications
+2021-10-04 14:11:17,204 DEBUG navigating to url
+2021-10-04 14:11:17,204 INFO Exiting setup
+2021-10-04 14:11:34,922 INFO Entering Setup
+2021-10-04 14:11:34,924 INFO Disabling notifications
+2021-10-04 14:12:41,183 INFO Entering Setup
+2021-10-04 14:12:41,202 INFO Disabling notifications
+2021-10-04 14:12:51,159 DEBUG navigating to url
+2021-10-04 14:12:51,162 INFO Exiting setup
+2021-10-04 14:38:17,919 INFO Entering Setup
+2021-10-04 14:38:17,932 INFO Disabling notifications
+2021-10-04 14:38:26,099 DEBUG navigating to url
+2021-10-04 14:38:26,100 INFO Exiting setup
+2021-10-04 14:38:30,999 INFO Entering Setup
+2021-10-04 14:38:31,000 INFO Disabling notifications
+2021-10-04 14:38:37,092 ERROR unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=94.0.4606.71)
+2021-10-04 14:39:00,838 INFO Entering Setup
+2021-10-04 14:39:00,853 INFO Disabling notifications
+2021-10-04 14:39:08,117 DEBUG navigating to url
+2021-10-04 14:39:08,117 INFO Exiting setup
+2021-10-04 14:39:12,676 INFO Entering Setup
+2021-10-04 14:39:12,677 INFO Disabling notifications
+2021-10-04 14:39:17,142 DEBUG navigating to url
+2021-10-04 14:39:17,143 INFO Exiting setup
+2021-10-04 14:39:35,408 INFO Entering Setup
+2021-10-04 14:39:35,424 INFO Disabling notifications
+2021-10-04 14:39:42,845 DEBUG navigating to url
+2021-10-04 14:39:42,846 INFO Exiting setup
+2021-10-04 14:40:30,919 INFO Entering Setup
+2021-10-04 14:40:30,919 INFO Disabling notifications
+2021-10-04 14:40:39,049 DEBUG navigating to url
+2021-10-04 14:40:39,050 INFO Exiting setup
+2021-10-04 14:41:50,199 INFO Entering Setup
+2021-10-04 14:41:50,214 INFO Disabling notifications
+2021-10-04 14:41:57,333 DEBUG navigating to url
+2021-10-04 14:41:57,333 INFO Exiting setup
+2021-10-04 14:43:26,435 INFO Entering Setup
+2021-10-04 14:43:26,457 INFO Disabling notifications
+2021-10-04 14:43:33,449 DEBUG navigating to url
+2021-10-04 14:43:33,449 INFO Exiting setup
+2021-10-04 14:55:27,403 DEBUG navigating to url
+2021-10-04 14:55:27,432 INFO Entering Setup
+2021-10-04 14:55:32,801 DEBUG navigating to url
+2021-10-04 14:55:32,801 INFO Exiting setup
+2021-10-04 14:56:10,045 DEBUG navigating to url
+2021-10-04 14:56:10,046 INFO Entering Setup
+2021-10-04 14:56:14,965 DEBUG navigating to url
+2021-10-04 14:56:14,966 INFO Exiting setup
+2021-10-04 14:56:42,767 DEBUG navigating to url
+2021-10-04 14:56:42,768 INFO Entering Setup
+2021-10-04 14:56:47,809 DEBUG navigating to url
+2021-10-04 14:56:47,809 INFO Exiting setup
+2021-10-04 14:56:54,068 DEBUG navigating to url
+2021-10-04 14:56:54,069 INFO Entering Setup
+2021-10-04 14:56:58,742 DEBUG navigating to url
+2021-10-04 14:56:58,743 INFO Exiting setup
+2021-10-04 14:57:05,024 DEBUG navigating to url
+2021-10-04 14:57:05,024 INFO Entering Setup
+2021-10-04 14:57:10,090 DEBUG navigating to url
+2021-10-04 14:57:10,090 INFO Exiting setup
+2021-10-04 14:57:17,749 DEBUG navigating to url
+2021-10-04 14:57:17,749 INFO Entering Setup
+2021-10-04 14:57:22,675 DEBUG navigating to url
+2021-10-04 14:57:22,675 INFO Exiting setup
+2021-10-04 14:57:37,884 DEBUG navigating to url
+2021-10-04 14:57:37,885 INFO Entering Setup
+2021-10-04 14:57:48,142 DEBUG navigating to url
+2021-10-04 14:57:48,142 INFO Exiting setup
+2021-10-04 14:58:01,883 DEBUG navigating to url
+2021-10-04 14:58:01,883 INFO Entering Setup
+2021-10-04 14:58:18,369 DEBUG navigating to url
+2021-10-04 14:58:18,369 INFO Exiting setup
+2021-10-04 14:59:56,364 DEBUG navigating to url
+2021-10-04 14:59:56,396 INFO Entering Setup
+2021-10-04 15:00:02,180 DEBUG navigating to url
+2021-10-04 15:00:02,181 INFO Exiting setup
+2021-10-04 15:00:40,668 DEBUG navigating to url
+2021-10-04 15:00:40,669 INFO Entering Setup
+2021-10-04 15:00:45,770 DEBUG navigating to url
+2021-10-04 15:00:45,770 INFO Exiting setup
+2021-10-04 15:01:13,291 DEBUG navigating to url
+2021-10-04 15:01:13,292 INFO Entering Setup
+2021-10-04 15:01:20,581 DEBUG navigating to url
+2021-10-04 15:01:20,582 INFO Exiting setup
+2021-10-04 15:01:27,160 DEBUG navigating to url
+2021-10-04 15:01:27,161 INFO Entering Setup
+2021-10-04 15:01:32,407 DEBUG navigating to url
+2021-10-04 15:01:32,407 INFO Exiting setup
+2021-10-04 15:01:38,664 DEBUG navigating to url
+2021-10-04 15:01:38,664 INFO Entering Setup
+2021-10-04 15:01:43,593 DEBUG navigating to url
+2021-10-04 15:01:43,593 INFO Exiting setup
+2021-10-04 15:01:51,437 DEBUG navigating to url
+2021-10-04 15:01:51,437 INFO Entering Setup
+2021-10-04 15:01:56,910 DEBUG navigating to url
+2021-10-04 15:01:56,910 INFO Exiting setup
+2021-10-04 15:02:48,078 DEBUG navigating to url
+2021-10-04 15:02:48,113 INFO Entering Setup
+2021-10-04 15:02:53,476 DEBUG navigating to url
+2021-10-04 15:02:53,476 INFO Exiting setup
+2021-10-04 15:04:23,924 DEBUG navigating to url
+2021-10-04 15:04:23,946 INFO Entering Setup
+2021-10-04 15:04:29,407 DEBUG navigating to url
+2021-10-04 15:04:29,408 INFO Exiting setup
+2021-10-04 15:04:59,209 DEBUG navigating to url
+2021-10-04 15:04:59,231 INFO Entering Setup
+2021-10-04 15:05:04,367 DEBUG navigating to url
+2021-10-04 15:05:04,367 INFO Exiting setup
+2021-10-04 15:05:33,088 DEBUG navigating to url
+2021-10-04 15:05:33,116 INFO Entering Setup
+2021-10-04 15:05:38,412 DEBUG navigating to url
+2021-10-04 15:05:38,412 INFO Exiting setup
+2021-10-04 15:14:06,523 DEBUG navigating to url
+2021-10-04 15:14:06,550 INFO Entering Setup
+2021-10-04 15:14:11,831 DEBUG navigating to url
+2021-10-04 15:14:11,832 INFO Exiting setup
+2021-10-04 15:14:29,848 DEBUG navigating to url
+2021-10-04 15:14:29,869 INFO Entering Setup
+2021-10-04 15:14:34,999 DEBUG navigating to url
+2021-10-04 15:14:35,000 INFO Exiting setup
+2021-10-04 15:16:31,017 DEBUG navigating to url
+2021-10-04 15:16:31,039 INFO Entering Setup
+2021-10-04 15:16:36,463 DEBUG navigating to url
+2021-10-04 15:16:36,463 INFO Exiting setup
+2021-10-04 15:16:51,149 DEBUG navigating to url
+2021-10-04 15:16:51,169 INFO Entering Setup
+2021-10-04 15:16:59,224 DEBUG navigating to url
+2021-10-04 15:16:59,225 INFO Exiting setup
+2021-10-04 15:27:27,114 DEBUG navigating to url
+2021-10-04 15:27:27,138 INFO Entering Setup
+2021-10-04 15:27:32,278 DEBUG navigating to url
+2021-10-04 15:27:32,278 INFO Exiting setup
+2021-10-04 15:28:51,645 DEBUG navigating to url
+2021-10-04 15:28:51,668 INFO Entering Setup
+2021-10-04 15:28:56,831 DEBUG navigating to url
+2021-10-04 15:28:56,831 INFO Exiting setup

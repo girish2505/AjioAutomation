@@ -1,8 +1,5 @@
 ﻿using OpenQA.Selenium;
 using SeleniumExtras.PageObjects;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace AjioAutomation.Pages
 {
@@ -16,5 +13,9 @@ namespace AjioAutomation.Pages
         [FindsBy(How = How.Name, Using = "searchVal")]
         [CacheLookup]
         public IWebElement searchbtn;
+
+        [FindsBy(How = How.XPath, Using = "//body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[3]/div[1]/div[1]/div[2]/a[1]/div[1]/div[1]/img[1]")]
+        [CacheLookup]
+        public IWebElement product;
     }
 }

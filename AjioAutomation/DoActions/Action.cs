@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 using OpenQA.Selenium;
+using System;
 
 namespace AjioAutomation.DoActions
 {
-    class Action
+    public class Action
     {
         public static void LoginToAjio(IWebDriver driver)
         {
@@ -15,11 +13,9 @@ namespace AjioAutomation.DoActions
 
             login.loginBtn.Click();
             System.Threading.Thread.Sleep(1000);
-            Assert.AreEqual(driver.Url, "https://www.ajio.com/");
 
             login.email.SendKeys(ExcelOperations.ReadData(1, "email"));
             System.Threading.Thread.Sleep(1000);
-            Assert.AreEqual(driver.Url, "https://www.ajio.com/");
 
             login.continuebtn.Click();
             System.Threading.Thread.Sleep(1000);
@@ -27,13 +23,12 @@ namespace AjioAutomation.DoActions
 
             login.password.SendKeys(ExcelOperations.ReadData(1, "password"));
             System.Threading.Thread.Sleep(10000);
-            Assert.AreEqual(driver.Url, "https://www.ajio.com/");
 
             login.startbtn.Click();
             System.Threading.Thread.Sleep(1000);
+            Assert.AreEqual(driver.Url, "https://www.ajio.com/");
 
         }
-
         public static void SearchKey(IWebDriver driver)
         {
             Pages.Search search = new Pages.Search(driver);
@@ -45,8 +40,79 @@ namespace AjioAutomation.DoActions
 
             search.searchbtn.SendKeys(Keys.Enter);
 
+            string expected = "Footwear";
+            string actual = driver.FindElement(By.XPath("//div[contains(text(),'Footwear')]")).Text;
+            Console.WriteLine(" Meassage: {0}", actual);
+            Assert.AreEqual(expected, actual);
+
+            IJavaScriptExecutor js = (IJavaScriptExecutor)driver;
+            ((IJavaScriptExecutor)driver).ExecuteScript("scroll(0,200)");
+            System.Threading.Thread.Sleep(2000);
+
+            search.product.Click();
+            driver.SwitchTo().Window(driver.WindowHandles[1]);
+            System.Threading.Thread.Sleep(1000);
+
             Base.BaseClass.Takescreenshot();
 
+            System.Threading.Thread.Sleep(1000);
+        }
+        public static void AddToBag(IWebDriver driver)
+        {
+            Pages.AddToBag add = new Pages.AddToBag(driver);
+
+            IJavaScriptExecutor js = (IJavaScriptExecutor)driver;
+            ((IJavaScriptExecutor)driver).ExecuteScript("scroll(0,200)");
+            System.Threading.Thread.Sleep(1000);
+
+            add.sizebtn.Click();
+            System.Threading.Thread.Sleep(1000);
+
+            add.addToBag.Click();
+            System.Threading.Thread.Sleep(2000);
+            Assert.AreEqual(driver.Url, "https://www.ajio.com/puma-cell-fraction-sports-shoes/p/460970756_grey");
+        }
+        public static void PlaceOrder(IWebDriver driver)
+        {
+            Pages.ApplyCoupon order = new Pages.ApplyCoupon(driver);
+
+            order.bagbtn.Click();
+            System.Threading.Thread.Sleep(1000);
+
+            string expected = "My Bag";
+            string actual = driver.FindElement(By.XPath("//span[contains(text(),'My Bag')]")).Text;
+            Console.WriteLine(" Meassage: {0}", actual);
+            Assert.AreEqual(expected, actual);
+
+            order.coupon.Click();
+            System.Threading.Thread.Sleep(1000);
+
+            order.applyBtn.Click();
+            System.Threading.Thread.Sleep(1000);
+
+            order.ProceedBtn.Click();
+            System.Threading.Thread.Sleep(1000);
+
+            order.ProceedToPayment.Click();
+            System.Threading.Thread.Sleep(1000);
+        }
+        public static void Payment(IWebDriver driver)
+        {
+            Pages.PlaceOrder pay = new Pages.PlaceOrder(driver);
+
+            pay.codBtn.Click();
+            System.Threading.Thread.Sleep(1000);
+
+            //pay.conformOrder.Click();
+            //System.Threading.Thread.Sleep(1000);
+
+          
+        }
+        public static void Signout(IWebDriver driver)
+        {
+            Pages.SignOut signout = new Pages.SignOut(driver);
+
+            signout.signOut.Click();
             System.Threading.Thread.Sleep(1000);
         }
     }
