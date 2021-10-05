@@ -44,6 +44,14 @@ namespace AjioAutomation.DoActions
             string actual = driver.FindElement(By.XPath("//div[contains(text(),'Footwear')]")).Text;
             Console.WriteLine(" Meassage: {0}", actual);
             Assert.AreEqual(expected, actual);
+            try
+            {
+                Console.WriteLine("Successfull");
+            }
+            catch
+            {
+                throw new CustomException(CustomException.ExceptionType.NoSuchElement, "No such element found");
+            }
 
             IJavaScriptExecutor js = (IJavaScriptExecutor)driver;
             ((IJavaScriptExecutor)driver).ExecuteScript("scroll(0,200)");
@@ -70,7 +78,7 @@ namespace AjioAutomation.DoActions
 
             add.addToBag.Click();
             System.Threading.Thread.Sleep(2000);
-            Assert.AreEqual(driver.Url, "https://www.ajio.com/puma-cell-fraction-sports-shoes/p/460970756_grey");
+            Assert.AreEqual(driver.Url, "https://www.ajio.com/puma-popcat-20-slides-with-logo-print/p/460953070_black");
         }
         public static void PlaceOrder(IWebDriver driver)
         {
@@ -83,6 +91,14 @@ namespace AjioAutomation.DoActions
             string actual = driver.FindElement(By.XPath("//span[contains(text(),'My Bag')]")).Text;
             Console.WriteLine(" Meassage: {0}", actual);
             Assert.AreEqual(expected, actual);
+            try
+            {
+                Console.WriteLine("Successfull");
+            }
+            catch
+            {
+                throw new CustomException(CustomException.ExceptionType.NoSuchElement, "No such element found");
+            }
 
             order.coupon.Click();
             System.Threading.Thread.Sleep(1000);
@@ -103,10 +119,9 @@ namespace AjioAutomation.DoActions
             pay.codBtn.Click();
             System.Threading.Thread.Sleep(1000);
 
-            //pay.conformOrder.Click();
-            //System.Threading.Thread.Sleep(1000);
+            pay.conformOrder.Click();
+            System.Threading.Thread.Sleep(1000);
 
-          
         }
         public static void Signout(IWebDriver driver)
         {

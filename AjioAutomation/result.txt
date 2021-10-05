@@ -670,3 +670,85 @@ from disconnected: received Inspector.detached event
 2021-10-04 15:28:51,668 INFO Entering Setup
 2021-10-04 15:28:56,831 DEBUG navigating to url
 2021-10-04 15:28:56,831 INFO Exiting setup
+2021-10-04 16:20:28,681 DEBUG navigating to url
+2021-10-04 16:20:28,735 INFO Entering Setup
+2021-10-04 16:21:17,251 DEBUG navigating to url
+2021-10-04 16:21:17,281 INFO Entering Setup
+2021-10-04 16:21:23,710 DEBUG navigating to url
+2021-10-04 16:21:23,711 INFO Exiting setup
+2021-10-04 16:21:40,880 DEBUG navigating to url
+2021-10-04 16:21:40,907 INFO Entering Setup
+2021-10-04 16:21:47,140 DEBUG navigating to url
+2021-10-04 16:21:47,140 INFO Exiting setup
+2021-10-04 16:22:22,616 DEBUG navigating to url
+2021-10-04 16:22:22,668 INFO Entering Setup
+2021-10-04 16:22:30,872 DEBUG navigating to url
+2021-10-04 16:22:30,873 INFO Exiting setup
+2021-10-04 16:25:24,376 DEBUG navigating to url
+2021-10-04 16:25:24,448 INFO Entering Setup
+2021-10-04 16:25:31,102 DEBUG navigating to url
+2021-10-04 16:25:31,103 INFO Exiting setup
+2021-10-04 16:25:54,252 DEBUG navigating to url
+2021-10-04 16:25:54,312 INFO Entering Setup
+2021-10-04 16:26:01,292 DEBUG navigating to url
+2021-10-04 16:26:01,293 INFO Exiting setup
+2021-10-05 14:23:18,829 DEBUG navigating to url
+2021-10-05 14:23:18,856 INFO Entering Setup
+2021-10-05 14:23:24,157 DEBUG navigating to url
+2021-10-05 14:23:24,158 INFO Exiting setup
+2021-10-05 14:23:55,288 DEBUG navigating to url
+2021-10-05 14:23:55,321 INFO Entering Setup
+2021-10-05 14:24:04,966 DEBUG navigating to url
+2021-10-05 14:24:04,967 INFO Exiting setup
+2021-10-05 14:25:33,881 DEBUG navigating to url
+2021-10-05 14:25:33,923 INFO Entering Setup
+2021-10-05 14:25:39,696 DEBUG navigating to url
+2021-10-05 14:25:39,697 INFO Exiting setup
+2021-10-05 14:44:07,727 DEBUG navigating to url
+2021-10-05 14:44:07,757 INFO Entering Setup
+2021-10-05 14:44:13,606 DEBUG navigating to url
+2021-10-05 14:44:13,606 INFO Exiting setup
+2021-10-05 14:45:00,269 DEBUG navigating to url
+2021-10-05 14:45:00,305 INFO Entering Setup
+2021-10-05 14:45:07,120 DEBUG navigating to url
+2021-10-05 14:45:07,120 INFO Exiting setup
+2021-10-05 14:45:53,109 DEBUG navigating to url
+2021-10-05 14:45:53,150 INFO Entering Setup
+2021-10-05 14:45:58,577 DEBUG navigating to url
+2021-10-05 14:45:58,579 INFO Exiting setup
+2021-10-05 15:01:34,176 DEBUG navigating to url
+2021-10-05 15:01:34,207 INFO Entering Setup
+2021-10-05 15:01:40,401 DEBUG navigating to url
+2021-10-05 15:01:40,402 INFO Exiting setup
+2021-10-05 15:03:12,563 DEBUG navigating to url
+2021-10-05 15:03:12,609 INFO Entering Setup
+2021-10-05 15:03:19,672 DEBUG navigating to url
+2021-10-05 15:03:19,673 INFO Exiting setup
+2021-10-05 15:04:55,729 DEBUG navigating to url
+2021-10-05 15:04:55,761 INFO Entering Setup
+2021-10-05 15:05:03,890 DEBUG navigating to url
+2021-10-05 15:05:03,890 INFO Exiting setup
+2021-10-05 15:06:32,007 DEBUG navigating to url
+2021-10-05 15:06:32,041 INFO Entering Setup
+2021-10-05 15:06:38,961 DEBUG navigating to url
+2021-10-05 15:06:38,961 INFO Exiting setup
+2021-10-05 15:07:50,260 DEBUG navigating to url
+2021-10-05 15:07:50,317 INFO Entering Setup
+2021-10-05 15:07:57,029 DEBUG navigating to url
+2021-10-05 15:07:57,030 INFO Exiting setup
+2021-10-05 15:08:46,323 DEBUG navigating to url
+2021-10-05 15:08:46,355 INFO Entering Setup
+2021-10-05 15:08:52,808 DEBUG navigating to url
+2021-10-05 15:08:52,809 INFO Exiting setup
+2021-10-05 15:11:33,421 DEBUG navigating to url
+2021-10-05 15:11:33,452 INFO Entering Setup
+2021-10-05 15:11:40,600 DEBUG navigating to url
+2021-10-05 15:11:40,601 INFO Exiting setup
+2021-10-05 15:11:58,622 DEBUG navigating to url
+2021-10-05 15:11:58,656 INFO Entering Setup
+2021-10-05 15:12:04,050 DEBUG navigating to url
+2021-10-05 15:12:04,050 INFO Exiting setup
+2021-10-05 15:21:34,553 DEBUG navigating to url
+2021-10-05 15:21:34,589 INFO Entering Setup
+2021-10-05 15:21:40,114 DEBUG navigating to url
+2021-10-05 15:21:40,117 INFO Exiting setup
